@@ -1,0 +1,85 @@
+80 3
+3 hide creep float
+1 spook
+2 spook float
+3 spook hide creep
+4 spook hide creep float
+4 spook hide creep float
+2 creep float
+3 spook creep float
+4 spook hide creep float
+2 creep float
+1 spook
+3 spook hide creep
+2 hide float
+2 hide creep
+2 spook creep
+2 hide float
+2 spook float
+2 hide float
+2 creep float
+2 creep float
+3 spook hide creep
+3 spook creep float
+1 hide
+2 hide float
+3 hide creep float
+3 spook hide float
+2 creep float
+2 hide float
+3 spook creep float
+1 float
+2 spook hide
+1 creep
+1 spook
+3 hide creep float
+1 hide
+2 spook creep
+1 hide
+2 spook hide
+1 float
+3 spook hide creep
+3 spook hide float
+1 creep
+2 hide float
+3 spook creep float
+3 spook creep float
+1 float
+2 spook float
+3 hide creep float
+2 spook hide
+1 creep
+3 spook hide float
+2 creep float
+2 hide creep
+4 spook hide creep float
+4 spook hide creep float
+3 spook creep float
+1 float
+2 creep float
+2 spook hide
+3 spook hide float
+2 hide creep
+1 hide
+3 spook hide creep
+3 hide creep float
+1 spook
+2 spook float
+2 hide float
+1 spook
+3 spook hide creep
+2 hide creep
+1 float
+2 creep float
+4 spook hide creep float
+1 creep
+2 creep float
+1 hide
+2 spook creep
+4 spook hide creep float
+1 creep
+2 creep float
+125344 2693 1000000000 7
+1 1000000000
+1 100000000
+100000000 1000000000
